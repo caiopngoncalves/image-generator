@@ -1,4 +1,4 @@
-# image-generator (IN BUILDIND!!!)
+# image-generator (development!!!)
 
 A react project using Next.js to turn text into images
 
